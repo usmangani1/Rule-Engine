@@ -1,0 +1,59 @@
+{u'signal': u'ATL9', u'value_type': u'Datetime', u'value': u'2017-08-09 15:44:47'}
+{u'signal': u'ATL2', u'value_type': u'String', u'value': u'HIGH'}
+{u'signal': u'ATL9', u'value_type': u'Datetime', u'value': u'2017-10-08 11:42:36'}
+{u'signal': u'ATL5', u'value_type': u'Integer', u'value': u'48.987'}
+{u'signal': u'ATL9', u'value_type': u'Datetime', u'value': u'2017-08-09 15:44:47'}
+{u'signal': u'ATL4', u'value_type': u'String', u'value': u'HIGH'}
+{u'signal': u'ATL4', u'value_type': u'String', u'value': u'HIGH'}
+{u'signal': u'ATL3', u'value_type': u'String', u'value': u'HIGH'}
+{u'signal': u'ATL7', u'value_type': u'String', u'value': u'HIGH'}
+{u'signal': u'ATL9', u'value_type': u'Datetime', u'value': u'2017-07-15 02:40:17'}
+{u'signal': u'ATL5', u'value_type': u'Integer', u'value': u'18.849'}
+{u'signal': u'ATL4', u'value_type': u'String', u'value': u'HIGH'}
+{u'signal': u'ATL2', u'value_type': u'String', u'value': u'HIGH'}
+{u'signal': u'ATL9', u'value_type': u'Datetime', u'value': u'2017-07-26 11:42:51'}
+{u'signal': u'ATL7', u'value_type': u'String', u'value': u'HIGH'}
+{u'signal': u'ATL5', u'value_type': u'Integer', u'value': u'34.458'}
+{u'signal': u'ATL7', u'value_type': u'String', u'value': u'HIGH'}
+{u'signal': u'ATL8', u'value_type': u'Datetime', u'value': u'2017-09-15 05:52:58'}
+{u'signal': u'ATL5', u'value_type': u'Integer', u'value': u'13.381'}
+{u'signal': u'ATL7', u'value_type': u'String', u'value': u'HIGH'}
+{u'signal': u'ATL9', u'value_type': u'Datetime', u'value': u'2017-08-28 09:20:21'}
+{u'signal': u'ATL9', u'value_type': u'Datetime', u'value': u'2017-09-30 17:31:23'}
+{u'signal': u'ATL7', u'value_type': u'String', u'value': u'HIGH'}
+{u'signal': u'ATL1', u'value_type': u'Integer', u'value': u'3.3'}
+{u'signal': u'ATL4', u'value_type': u'String', u'value': u'HIGH'}
+{u'signal': u'ATL7', u'value_type': u'String', u'value': u'HIGH'}
+{u'signal': u'ATL2', u'value_type': u'String', u'value': u'HIGH'}
+{u'signal': u'ATL10', u'value_type': u'Integer', u'value': u'1.432'}
+{u'signal': u'ATL4', u'value_type': u'String', u'value': u'HIGH'}
+
+
+{u'signal': u'ATL2', u'value_type': u'String', u'value': u'HIGH'}
+{u'signal': u'ATL7', u'value_type': u'String', u'value': u'HIGH'}
+{u'signal': u'ATL2', u'value_type': u'String', u'value': u'HIGH'}
+{u'signal': u'ATL9', u'value_type': u'Datetime', u'value': u'2017-09-30 17:31:23'}
+{u'signal': u'ATL5', u'value_type': u'Integer', u'value': u'13.381'}
+{u'signal': u'ATL4', u'value_type': u'String', u'value': u'HIGH'}
+{u'signal': u'ATL10', u'value_type': u'Integer', u'value': u'1.432'}
+{u'signal': u'ATL9', u'value_type': u'Datetime', u'value': u'2017-08-09 15:44:47'}
+{u'signal': u'ATL9', u'value_type': u'Datetime', u'value': u'2017-07-15 02:40:17'}
+{u'signal': u'ATL9', u'value_type': u'Datetime', u'value': u'2017-07-26 11:42:51'}
+{u'signal': u'ATL9', u'value_type': u'Datetime', u'value': u'2017-10-08 11:42:36'}
+{u'signal': u'ATL7', u'value_type': u'String', u'value': u'HIGH'}
+{u'signal': u'ATL7', u'value_type': u'String', u'value': u'HIGH'}
+{u'signal': u'ATL1', u'value_type': u'Integer', u'value': u'3.3'}
+{u'signal': u'ATL7', u'value_type': u'String', u'value': u'HIGH'}
+{u'signal': u'ATL4', u'value_type': u'String', u'value': u'HIGH'}
+{u'signal': u'ATL3', u'value_type': u'String', u'value': u'HIGH'}
+{u'signal': u'ATL5', u'value_type': u'Integer', u'value': u'18.849'}
+{u'signal': u'ATL7', u'value_type': u'String', u'value': u'HIGH'}
+{u'signal': u'ATL8', u'value_type': u'Datetime', u'value': u'2017-09-15 05:52:58'}
+{u'signal': u'ATL7', u'value_type': u'String', u'value': u'HIGH'}
+{u'signal': u'ATL4', u'value_type': u'String', u'value': u'HIGH'}
+{u'signal': u'ATL9', u'value_type': u'Datetime', u'value': u'2017-08-28 09:20:21'}
+{u'signal': u'ATL5', u'value_type': u'Integer', u'value': u'34.458'}
+{u'signal': u'ATL4', u'value_type': u'String', u'value': u'HIGH'}
+{u'signal': u'ATL4', u'value_type': u'String', u'value': u'HIGH'}
+{u'signal': u'ATL5', u'value_type': u'Integer', u'value': u'48.987'}
+{u'signal': u'ATL2', u'value_type': u'String', u'value': u'HIGH'}
