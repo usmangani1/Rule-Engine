@@ -13,7 +13,7 @@ generaterules.py on the other side listens to the kafka messages and generates r
 
 
 
-## Executing the data from Rules:
+## Executing the data using predefined Rules:
 
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) executerules.json -------->passinputforexecution--------->executerules.py----------->violatedrules.txt
 
