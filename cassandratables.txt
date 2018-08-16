@@ -1,0 +1,19 @@
+* Creating ruleengine keyspace:
+
+CREATE KEYSPACE ruleengine
+WITH durable_writes = true
+AND replication = {
+	'class' : 'SimpleStrategy',
+	'replication_factor' : 1
+};
+
+
+
+* Creating rules table in ruleengine keyspace
+
+CREATE TABLE ruleengine.rules (
+	key text,
+	value_type text,
+	value text,
+	PRIMARY KEY (key, value_type)
+)
