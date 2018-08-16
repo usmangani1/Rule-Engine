@@ -24,7 +24,7 @@ executerules.py on the other side listens to the kafka messages and executes the
 
 ## Discussion
 
-#### Briefly describe the conceptual approach you chose! What are the trade-offs?
+### Briefly describe the conceptual approach you chose! What are the trade-offs?
 I have choosed the event based approach where the data will be generated when the event has been done,This is because the signal generated would be due to an event.We used kafka so that we can start as many consumers as possible which will automatically load balance and helps in the faster execution of the data.
  
  The only limitation is:
